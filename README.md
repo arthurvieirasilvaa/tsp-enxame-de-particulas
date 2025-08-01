@@ -9,7 +9,7 @@
 ## 📖 Objetivo:
 
 Este trabalho consiste em implementar o algoritmo Enxame de Partículas (Particle Swarm
-Optmization – PSO), uma técnica de otimização inspirada no comportamento coletivo de sistemas naturais, para solucionar o problema do caixeiro viajante (Travelling Salesman Problem – TSP).
+Optmization – PSO), uma técnica de otimização inspirada no comportamento coletivo de enxames, para solucionar o problema do caixeiro viajante (Travelling Salesman Problem – TSP).
 O objetivo principal é fazer com que o caixeiro viajante visite cada cidade somente uma vez e depois retorne à cidade de origem. Dado o custo da viagem (ou
 distância) entre cada uma das cidades, o problema do caixeiro é determinar qual o itinerário que possui o menor custo. 
 
